@@ -427,6 +427,46 @@ export default (() => {
 									object-fit="cover"
 								/>
 							</Components.FlexBox>
+							<Components.FlexBox
+								display="flex"
+								default_width="176px"
+								default_height="176px"
+								def_mar_right="16px"
+								def_mar_top="16px"
+								g1300_width="calc(50% - 32px)"
+								g1300_height="176px"
+								def_mar_left="16px"
+								def_mar_bot="16px"
+							>
+								<Image
+									width="100%"
+									height="100%"
+									src="https://uploads.quarkly.io/5fb2421db1c8af001eb53043/images/Rectangle%201%20(4).png?v=2020-11-16T09:36:05.818Z"
+									border-radius="12px"
+									box-shadow="0px 4px 31px rgba(0, 0, 0, 0.15);"
+									object-fit="cover"
+								/>
+							</Components.FlexBox>
+							<Components.FlexBox
+								display="flex"
+								default_width="176px"
+								default_height="176px"
+								def_mar_right="16px"
+								def_mar_top="16px"
+								g1300_width="calc(50% - 32px)"
+								g1300_height="176px"
+								def_mar_left="16px"
+								def_mar_bot="16px"
+							>
+								<Image
+									width="100%"
+									height="100%"
+									src="https://uploads.quarkly.io/5fb2421db1c8af001eb53043/images/Rectangle%201%20(5).png?v=2020-11-16T09:36:05.830Z"
+									border-radius="12px"
+									box-shadow="0px 4px 31px rgba(0, 0, 0, 0.15);"
+									object-fit="cover"
+								/>
+							</Components.FlexBox>
 							<Components.FlexBox display="flex" />
 						</Components.FlexBox>
 					</Components.FlexBox>
